@@ -111,5 +111,7 @@ group by Branch
 order by 2 desc
 #order by Rating desc limit 10
 
+#click link for visualization
+https://public.tableau.com/app/profile/fadlan.bahar8696/viz/DashboardSupermarket_16846804457200/Dashboard1?publish=yes
 	
  
